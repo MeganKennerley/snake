@@ -1,11 +1,3 @@
-""" My Version """
-# x_position = 0
-# for _ in range(3):
-#     t = Turtle(shape="square")
-#     t.color("white")
-#     t.setx(x_position)
-#     x_position += -20
-
 from turtle import Screen
 from snake import Snake
 from food import Food
